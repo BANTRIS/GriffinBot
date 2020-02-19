@@ -26,7 +26,7 @@ const client = new Discord.Client();
 
 //TOKEN Y ESTADO, FUNDAMENTAL QUE LO CAMBIEN
 
-client.login('pONE.tU.tOKEN.aCA.A4MTkw.Xfja6g.0fpbej2Gy1l9nEaGP8sZXvpN0C4');
+client.login('Njc5NzYyMzAyNDEyNjUyNTY1.Xk2EWA.dOEEA9Ucb33cnL5ARac-fF8yzSo');
 
 client.on('ready', () => {
 console.log("Conectado como " + client.user.tag )
